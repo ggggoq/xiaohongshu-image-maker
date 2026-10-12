@@ -1,0 +1,14 @@
+/sources/
+/outputs/
+/release/
+/.package-stage-*/
+/.installer-smoke-*/
+/交接包-CZGRED-小红书图片制作-20261009/发布物/
+/交接包-CZGRED-小红书图片制作-20261009/历史归档/
+/交接包-CZGRED-小红书图片制作-20261009/程序源码/
+**/.venv/
+**/__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
